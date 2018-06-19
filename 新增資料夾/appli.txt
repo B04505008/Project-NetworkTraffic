@@ -1,0 +1,11 @@
+6:test accuracy: 0.984190404415
+5:test accuracy: 0.826211452484
+4:test accuracy: 0.955550312996
+3:test accuracy: 0.884522676468
+2:test accuracy: 0.915797829628
+1:test accuracy: 0.849581718445
+0:test accuracy: 0.991522312164
+
+music browse file other :test accuracy: 0.934242069721
+
+music browse file other video:test accuracy: 0.865963876247
